@@ -1,0 +1,47 @@
+ [
+        {
+            "name": "Audi",
+            "rating": 5
+        },
+        {
+            "name": "BMW",
+            "rating": 4
+        },
+        {
+            "name": "Volvo",
+            "rating": 3
+        },
+        {
+            "name": "Merc",
+            "rating": 3
+        },
+        {
+            "name": "Porsche",
+            "rating": 5
+        },
+        {
+            "name": "VolksWagen",
+            "rating": 2
+        },
+        {
+            "name": "Opel",
+            "rating": 3
+        },
+        {
+            "name": "Ford",
+            "rating": 4
+        },
+        {
+            "name": "Landrover",
+            "rating": 1
+        },
+        {
+            "name": "Toyota",
+            "rating": 1
+        },
+        {
+            "name": "Honda",
+            "rating": 1
+        }
+    ]
+
